@@ -1,4 +1,4 @@
-# Building Effective LLM Workflows in Pure Python
+# Building Effective Agents (LLM Workflows) in Pure Python
 
 This repository contains practical patterns and examples for building effective LLM-powered systems. Based on real-world implementations and lessons learned from working with production systems, these patterns focus on simplicity and composability rather than complex frameworks.
 
